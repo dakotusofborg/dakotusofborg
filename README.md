@@ -28,7 +28,7 @@ Welcome to my GitHub! I’m a developer-in-progress, building strong foundations
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Dakota's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dakotusofborg&show_icons=true&theme=radical" alt="Dakota's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 </p>
 
