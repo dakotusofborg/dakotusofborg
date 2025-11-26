@@ -1,59 +1,107 @@
-# 👋 Hi, I’m Dakota  
+# **Dakota Cahill**
+### **Systems Developer • C++ Engineer • High-Performance Architecture**
 
-Welcome to my GitHub! I’m a developer-in-progress, building strong foundations in back-end systems and exploring performance-driven game development.  
+```
+     O
+       O
+   O O O                        
+   High-Performance C++ • Engine Systems • Low-Level Design
+```
 
----
+I build systems from the metal up.  
+My work focuses on **real-time architecture, custom memory strategies, CPU-level optimization, and engine-grade C++ development**.
 
-## 🚀 About Me
-- 💻 Learning **Back-End Development** with **Go** and **Python**  
-- 🎮 Diving into **C++ for Game Development**  
-- 🛠 Passionate about systems, performance, and scalable design  
-- 🌌 Curious about **AI, security, and high-performance computing**  
+Right now, I’m executing a **12-week C++ Carmack Sprint** — a deliberate systems gauntlet built to sharpen memory intuition, concurrency control, and performance reasoning.
 
----
-
-## 🧰 Languages & Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+This is not a tutorial journey.  
+This is the engineering track.
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakotusofborg&show_icons=true&theme=radical" alt="Dakota's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakotusofborg&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-</p>
+## **👤 Professional Tagline**
+**C++ Systems Engineer | Data-Oriented Design | Engine Architecture | Low-Level Optimization**  
+I specialize in building **infrastructure**, not demos — vector implementations, allocators, CPU rasterizers, ECS pipelines, and low-level tools that demand correctness and speed.
 
 ---
 
-## 🎯 Goals
-- 🚀 Build real-world back-end projects with Go & Python  
-- 🎮 Develop C++ mini-games to sharpen performance coding  
-- 🖥️ Strengthen systems programming and scalability skills  
-- 🤖 Explore AI & cybersecurity applications  
+# **🔥 The Carmack Sprint — 12-Week Systems Program**
+A sequence of **12 standalone systems repos**, each tackling a core discipline:
+
+- Vector implementation & RAII discipline  
+- Resource ownership & move-only types  
+- STL internals & cache-aware programming  
+- Header-only math library (constexpr/SIMD)  
+- Lock-free ring buffer (MPMC)  
+- Profiling & low-level optimization  
+- Custom allocators (stack/linear/pool)  
+- Entity Component System architecture  
+- CPU software rasterizer  
+- Memory, concurrency & UB debugging lab  
+- Unreal Engine subsystem engineering  
+- Final integrated mini-engine (capstone)
+
+All projects include:
+
+- Design docs  
+- Benchmarks  
+- Profiling data  
+- Debugging logs  
+- Weekly postmortems  
+- Portfolio-level code quality  
 
 ---
 
-## 🌟 Current Focus
-- Backend APIs and microservices in Go & Python  
-- Game mechanics and engine-level coding in C++  
-- Writing clean, efficient, and scalable code  
+# **⚙️ Engineering Principles**
+### **1. Complexity is leverage**  
+Anything painful — allocators, cache behavior, atomics — is worth mastering.
+
+### **2. If it isn’t measured, it doesn’t exist**  
+Every module includes **benchmarks** and **profiling artifacts**.
+
+### **3. Architecture > Code**  
+Clear mental models, then implementation.
+
+### **4. Logs > Excuses**  
+Every unexpected behavior gets documented.
+
+### **5. Systems over tutorials**  
+I build from scratch. No cargo-culting.
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](#)   
-- 🐦 [Twitter/X](#)  
-- 🌐 [Portfolio/Website](#) 
+# **📌 Featured Repositories (Auto-Updating)**
+
+### **Most Active Repos**
+[![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotusofborg&show_icons=true&theme=dark)](https://github.com/dakotusofborg)
+
+### **Top Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotusofborg&layout=compact&theme=dark)](https://github.com/dakotusofborg)
+
+### **Pinned Systems Projects (Carmack Sprint)**  
+> These update automatically as you push code.  
+> Replace the repo names once they exist.
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week01-vector&theme=dark)](https://github.com/dakotusofborg/cpp-week01-vector)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week02-resource-wrapper&theme=dark)](https://github.com/dakotusofborg/cpp-week02-resource-wrapper)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week03-stl-algos&theme=dark)](https://github.com/dakotusofborg/cpp-week03-stl-algos)  
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week04-header-math&theme=dark)](https://github.com/dakotusofborg/cpp-week04-header-math)
+
+*(Continue pin badges as you create the repos.)*
 
 ---
 
-✨ Thanks for stopping by! Check out my repos, drop a ⭐ if you like something, and let’s connect.  
+# **🧭 Long-Term Direction**
+- Real-time engine architecture  
+- High-performance C++ tooling  
+- AI backend infrastructure (C++ inference engines / CUDA path)  
+- Data-oriented programming  
+- Systems security & correctness  
+- Everything that demands **deep reasoning + high throughput**  
+
+---
+
+# **📫 Contact**
+If you’re working on systems, engines, performance-critical code, or infrastructure that requires rigor:  
+**I’m interested.**
+
+---
