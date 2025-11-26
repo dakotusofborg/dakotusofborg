@@ -50,9 +50,9 @@ Welcome to my GitHub! I’m a developer-in-progress, building strong foundations
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](#) *(add your link)*  
-- 🐦 [Twitter/X](#) *(optional)*  
-- 🌐 [Portfolio/Website](#) *(if you have one)*  
+- 💼 [LinkedIn](#)   
+- 🐦 [Twitter/X](#)  
+- 🌐 [Portfolio/Website](#) 
 
 ---
 
