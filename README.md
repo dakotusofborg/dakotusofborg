@@ -78,15 +78,10 @@ I build from scratch. No cargo-culting.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotusofborg&layout=compact&theme=dark)](https://github.com/dakotusofborg)
 
 ### **Pinned Systems Projects (Carmack Sprint)**  
-> These update automatically as you push code.  
-> Replace the repo names once they exist.
-
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week01-vector&theme=dark)](https://github.com/dakotusofborg/cpp-week01-vector)  
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week02-resource-wrapper&theme=dark)](https://github.com/dakotusofborg/cpp-week02-resource-wrapper)  
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week03-stl-algos&theme=dark)](https://github.com/dakotusofborg/cpp-week03-stl-algos)  
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week04-header-math&theme=dark)](https://github.com/dakotusofborg/cpp-week04-header-math)
-
-*(Continue pin badges as you create the repos.)*
 
 ---
 
