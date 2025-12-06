@@ -1,102 +1,100 @@
-# **Dakota Cahill**
-### **Systems Developer • C++ Engineer • High-Performance Architecture**
+# > whoami
+
+```cpp
+class GameDeveloper : public Human
+{
+public:
+    GameDeveloper()
+    {
+        Name = "[Your Name]";
+        Specialization = "Unreal Engine & C++";
+        CurrentQuest = "Building immersive gameplay experiences";
+        CoffeeLevel = MAX_INT;
+    }
+};
+```
+
+## About This Build
+
+Game developer with a focus on **Unreal Engine C++**. I spend my time architecting gameplay systems, debugging mysterious crashes at 2 AM, and occasionally remembering to commit my work before everything breaks.
+
+Currently grinding XP in gameplay programming and systems architecture. Always looking for the next technical challenge or interesting problem to solve.
+
+## Tech Stack
+
+**Primary Weapons**
+- Unreal Engine 5.x - My IDE of choice for chaos and creation
+- C++ - Where the real magic (and segfaults) happen
+- Visual Studio - Debugger extraordinaire and occasional nemesis
+- Git - Because `Ctrl+Z` only goes so far
+
+**Core Systems Experience**
+- Gameplay Framework (Pawns, Characters, Controllers, Game Modes)
+- Actor-Component Architecture
+- Collision & Physics Systems
+- Input System & Enhanced Input
+- Animation Blueprint integration
+- AI & Behavior Trees
+- Multiplayer & Replication
+- Performance Profiling & Optimization
+
+**Blueprint to C++ Pipeline**
+- Prototyping in Blueprint, optimizing in C++
+- Creating Blueprint-friendly C++ classes
+- Exposing the right functionality to designers
+- Knowing when to use which (and why)
+
+## Current Objectives
+
+```cpp
+TODO:
+[ ] Master advanced Unreal networking patterns
+[ ] Build a portfolio piece that doesn't crash on first playtest
+[ ] Contribute to open-source game dev tools
+[X] Learn proper memory management (finally)
+[ ] Understand why that one pointer is null (eternal quest)
+```
+
+## Repository Loot
+
+You'll find a mix of:
+- **Gameplay Mechanics** - Movement systems, combat, interactions
+- **Learning Projects** - Course work and experiments (properly attributed)
+- **Technical Demos** - Proof of concepts and system implementations
+- **Tools & Utilities** - Making life easier, one script at a time
+- **War Stories** - Comments in code explaining why things are the way they are
+
+## Stats & Achievements
+
+- **Lines of Code Written**: More than I'd like to admit
+- **Bugs Fixed**: Slightly fewer than bugs created
+- **Hours Debugging**: Yes
+- **Successful Hot Reloads**: Still counting
+- **Times Forgotten to Save**: Too many
+
+## Reach Me At
+
+- **Portfolio**: [Your website]
+- **LinkedIn**: [Your LinkedIn profile]
+- **Discord**: [Your Discord tag]
+- **Email**: [Your email]
+
+## Currently Playing
+
+[Game name] - because research is part of the job, right?
+
+## Random Lore
+
+- First line of code: [Your first programming experience]
+- Favorite debug tool: `UE_LOG` spam until something makes sense
+- Perfect day: Clean compile, no merge conflicts, frame rate at 60+
+- Motto: "It's not a bug, it's an undocumented feature"
+
+---
 
 ```
-     O
-       O
-   O O O                        
-   High-Performance C++ • Engine Systems • Low-Level Design
+> git commit -m "Another day, another build"
+> git push origin main
 ```
 
-I build systems from the metal up.  
-My work focuses on **real-time architecture, custom memory strategies, CPU-level optimization, and engine-grade C++ development**.
-
-Right now, I’m executing a **12-week C++ Carmack Sprint** — a deliberate systems gauntlet built to sharpen memory intuition, concurrency control, and performance reasoning.
-
-This is not a tutorial journey.  
-This is the engineering track.
-
----
-
-## **👤 Professional Tagline**
-**C++ Systems Engineer | Data-Oriented Design | Engine Architecture | Low-Level Optimization**  
-I specialize in building **infrastructure**, not demos — vector implementations, allocators, CPU rasterizers, ECS pipelines, and low-level tools that demand correctness and speed.
-
----
-
-# **🔥 The Carmack Sprint — 12-Week Systems Program**
-A sequence of **12 standalone systems repos**, each tackling a core discipline:
-
-- Vector implementation & RAII discipline  
-- Resource ownership & move-only types  
-- STL internals & cache-aware programming  
-- Header-only math library (constexpr/SIMD)  
-- Lock-free ring buffer (MPMC)  
-- Profiling & low-level optimization  
-- Custom allocators (stack/linear/pool)  
-- Entity Component System architecture  
-- CPU software rasterizer  
-- Memory, concurrency & UB debugging lab  
-- Unreal Engine subsystem engineering  
-- Final integrated mini-engine (capstone)
-
-All projects include:
-
-- Design docs  
-- Benchmarks  
-- Profiling data  
-- Debugging logs  
-- Weekly postmortems  
-- Portfolio-level code quality  
-
----
-
-# **⚙️ Engineering Principles**
-### **1. Complexity is leverage**  
-Anything painful — allocators, cache behavior, atomics — is worth mastering.
-
-### **2. If it isn’t measured, it doesn’t exist**  
-Every module includes **benchmarks** and **profiling artifacts**.
-
-### **3. Architecture > Code**  
-Clear mental models, then implementation.
-
-### **4. Logs > Excuses**  
-Every unexpected behavior gets documented.
-
-### **5. Systems over tutorials**  
-I build from scratch. No cargo-culting.
-
----
-
-# **📌 Featured Repositories (Auto-Updating)**
-
-### **Most Active Repos**
-[![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotusofborg&show_icons=true&theme=dark)](https://github.com/dakotusofborg)
-
-### **Top Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotusofborg&layout=compact&theme=dark)](https://github.com/dakotusofborg)
-
-### **Pinned Systems Projects (Carmack Sprint)**  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week01-vector&theme=dark)](https://github.com/dakotusofborg/cpp-week01-vector)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week02-resource-wrapper&theme=dark)](https://github.com/dakotusofborg/cpp-week02-resource-wrapper)  
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week03-stl-algos&theme=dark)](https://github.com/dakotusofborg/cpp-week03-stl-algos)  
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=dakotusofborg&repo=cpp-week04-header-math&theme=dark)](https://github.com/dakotusofborg/cpp-week04-header-math)
-
----
-
-# **🧭 Long-Term Direction**
-- Real-time engine architecture  
-- High-performance C++ tooling  
-- AI backend infrastructure (C++ inference engines / CUDA path)  
-- Data-oriented programming  
-- Systems security & correctness  
-- Everything that demands **deep reasoning + high throughput**  
-
----
-
-# **📫 Contact**
-If you’re working on systems, engines, performance-critical code, or infrastructure that requires rigor:  
-**I’m interested.**
-
----
+*If you're working on something cool or need a C++ dev who speaks fluent Unreal, feel free to ping me. Always down to talk game dev, architecture, or why pointers are both beautiful and terrifying.*
