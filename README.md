@@ -6,10 +6,10 @@ class GameDeveloper : public Human
 public:
     GameDeveloper()
     {
-        Name = "[Your Name]";
+        Name = "[Dakota Cahill]";
         Specialization = "Unreal Engine & C++";
         CurrentQuest = "Building immersive gameplay experiences";
-        CoffeeLevel = MAX_INT;
+        DietCokeLevel = MAX_INT;
     }
 };
 ```
@@ -76,12 +76,12 @@ You'll find a mix of:
 
 - **Portfolio**: [Your website]
 - **LinkedIn**: [Your LinkedIn profile]
-- **Discord**: [Your Discord tag]
-- **Email**: [Your email]
+- **Discord**: [gh0st0m3ga]
+- **Email**: [Dakota.Cahill@protonmail.com]
 
 ## Currently Playing
 
-[Game name] - because research is part of the job, right?
+[Civilization VI] - because research is part of the job, right?
 
 ## Random Lore
 
